@@ -25,6 +25,10 @@
     background: $background;
 }
 
+.active a{
+  color: $url-color;
+}
+
 .site-nav ul {
     text-align: right;
     float: right;

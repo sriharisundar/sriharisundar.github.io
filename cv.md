@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+group: "navigation"
 ---
 
 Download [PDF version](https://drive.google.com/file/d/1iGlsdmVa4Ee0iMuLDECAYhA2fYfYRPYE).

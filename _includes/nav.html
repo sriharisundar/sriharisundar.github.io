@@ -8,8 +8,11 @@
     {% endfor %}
     </ul>
     {% else %}
-     <li><a href="{{ menu_item.href | prepend: site.baseurl }}" class="page-link">{{ menu_item.title }}</a>
+    {% if page.url == menu_item.href %}
+      <li class="active"><a href="{{ menu_item.href | prepend: site.baseurl }}" class="active">{{ menu_item.title }}</a></li>
+    {% else %}
+      <li><a href="{{ menu_item.href | prepend: site.baseurl }}">{{ menu_item.title }}</a></li>
     {% endif %}
-    </li>
+    {% endif %}
     {% endfor %}
 </ul>

@@ -1,11 +1,14 @@
+- title: "About"
+  href: "/"
+
 - title: "Research"
   href: "/research/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "About"
-  href: "/about/"
+- title: "Contact"
+  href: "/contact/"
 
 --- - title: "Submenu"
 ---  subcategories:
@@ -15,4 +18,4 @@
 ---      subhref: "/misc/item-2/"
 ---
 ---- title: "Blog"
----  href: "/blog/"  
+---  href: "/blog/"
