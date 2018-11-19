@@ -9,7 +9,7 @@
     </ul>
     {% else %}
     {% if page.url == menu_item.href | prepend: site.baseurl %}
-      <li class="active"><a href="{{ menu_item.href | prepend: site.baseurl }}" class="active">{{ menu_item.title }}</a></li>
+      <li class="active"><a href="{{ menu_item.href | prepend: site.baseurl }}" class="active">123{{ menu_item.title }}</a></li>
     {% else %}
       <li><a href="{{ menu_item.href | prepend: site.baseurl }}">{{ menu_item.title }}</a></li>
     {% endif %}
