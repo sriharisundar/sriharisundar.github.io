@@ -5,6 +5,6 @@ permalink: /cv/
 group: "navigation"
 ---
 
-Download [PDF version](https://drive.google.com/file/d/1iGlsdmVa4Ee0iMuLDECAYhA2fYfYRPYE).
+Download [PDF version](https://drive.google.com/file/d/10xT66lhIrXUSXNwfHukQpMEpe1PypjvP/).
 
-{% include embedpdf.html source="https://drive.google.com/file/d/1iGlsdmVa4Ee0iMuLDECAYhA2fYfYRPYE/preview" width=100 height=800 %}
+{% include embedpdf.html source="https://drive.google.com/file/d/10xT66lhIrXUSXNwfHukQpMEpe1PypjvP/preview" width=100 height=800 %}
