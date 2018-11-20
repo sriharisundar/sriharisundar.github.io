@@ -9,4 +9,4 @@ group: "navigation"
 
 Hi!
 
-I am Srihari Sundar, a first year PhD student in the aerospace engineering department at the University of Michigan. I work in the [multiscale structural simulations laboratory](http://www-personal.umich.edu/~veeras/) under the guidance of Prof. Veera Sundararaghavan. My research interests encompass mechanical behavior of materials, multiscale modeling, and high performance computing. [Click here](base.url/Research) to read about my current and previous projects in detail.
+I am Srihari Sundar, a first year PhD student in the aerospace engineering department at the University of Michigan. I work in the [multiscale structural simulations laboratory](http://www-personal.umich.edu/~veeras/) under the guidance of Prof. Veera Sundararaghavan. My research interests encompass mechanical behavior of materials, multiscale modeling, and high performance computing. [Click here](research) to read about my current and previous projects in detail.
