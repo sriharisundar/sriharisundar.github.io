@@ -5,7 +5,7 @@ permalink: /
 group: "navigation"
 ---
 
-{% include image.html url="images/nsps2019" caption="[NSPN symposium 2019](https://scipolsymposium2019.casp.wisc.edu/)" width="300px" align="right" %}
+{% include image.html url="images/nsps2019.jpg" caption="NSPN symposium 2019" width="300px" align="right" %}
 
 Hi!
 
