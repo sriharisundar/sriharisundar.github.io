@@ -9,6 +9,9 @@ group: "navigation"
 
 Hi!
 
-I am Srihari Sundar, a third year PhD candidate in the aerospace engineering department at the University of Michigan. I work in the [multiscale structural simulations laboratory](http://www-personal.umich.edu/~veeras/) under the guidance of Prof. Veera Sundararaghavan. My doctoral research focuses on materials informatics, process design and data driven modeling. [Click here](research) to read about my current and previous projects in detail.
+I am Srihari Sundar, a PhD candidate in the aerospace engineering department at the University of Michigan. I work in the [ASSET lab](https://www.assetlab.org) and I am co-advised by Prof. Michael Craig and [Prof. Ashley Payne](https://clasp.engin.umich.edu/people/ashley-payne/). My research focus is on effects of climate change and variability on the reliability of power systems. Specifically, I study the effects of changing frequency and intensity of compound events affecting the operation of electricity generators and flexibility needs of the system in a decarbonized future.
 
-I am also interested in science policy and sustainability, and spend a lot of time thinking about these topics. Through my involvement in a campus group called [ESPA](https://sites.google.com/umich.edu/espa-umich/news) (Engaging Scientists in Policy and Advocacy) and a few classes, I also work on writing policy recommendations and analyses for a variety of science and technology issues.
+I am also interested in science policy and sustainability, and spend a lot of time thinking about these topics. Through my involvement in a campus group called [ESPA](https://sites.google.com/umich.edu/espa-umich) (Engaging Scientists in Policy and Advocacy) and I also work on writing policy recommendations and analyses for a variety of science and technology issues. 
+
+I was born and raised in Chennai, India and studied Materials Engineering during my undergrad. Subsequently I began my research pursuits in materials informatics and data driven modeling, before changing fields. More details on my projects are in the research page and my CV.
+
