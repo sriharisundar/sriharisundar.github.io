@@ -1,14 +1,14 @@
 - title: "About"
   href: "/"
 
+- title: "Contact"
+  href: "/contact/"
+
 --- title: "Research"
 ---  href: "/research/"
 
 --- title: "CV"
 ---  href: "/cv/"
-
-- title: "Contact"
-  href: "/contact/"
 
 --- - title: "Submenu"
 ---  subcategories:
