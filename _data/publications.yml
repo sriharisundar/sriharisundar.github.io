@@ -1,11 +1,18 @@
 materials:
   - title:   "Database development and exploration of process–microstructure relationships using variational autoencoders"
-    author:  "S. Sundar, V. Sundararaghavan"
+    author:  "**S. Sundar**, V. Sundararaghavan"
     journal: "Materials Today Communications"
     year:    "2020"
     url:     "https://www.sciencedirect.com/science/article/pii/S2352492820306097"
     arxiv: "https://arxiv.org/abs/2001.09171"
     data: "https://github.com/sriharisundar/processtexturedatabase"
     doi:     "https://doi.org/10.1016/j.mtcomm.2020.101201"
+
+  - title:   "PRISMS-Plasticity: An open-source crystal plasticity finite element software"
+    author:  "M. Yaghoobi, S. Ganesan, **S. Sundar**, A. Lakshmanan, S. Rudraraju, J. E. Allison, V. Sundararaghavan"
+    journal: "Computational Materials Science"
+    year:    "2019"
+    url:     "https://www.sciencedirect.com/science/article/abs/pii/S0927025619303696"
+    doi:     "https://doi.org/10.1016/j.commatsci.2019.109078"
 
 presentations:
