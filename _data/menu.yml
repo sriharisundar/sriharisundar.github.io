@@ -1,22 +1,23 @@
 - title: "About"
   href: "/"
 
-- title: "Research"
-  href: "/research/"
-  subcategories:
-    - subtitle: "Current"
-      subhref: "/research/"
-    - subtitle: "Materials Research"
-      subhref: "/materials/"
-
-- title: "CV"
-  href: "/cv/"
-
-- title: "Blog"
-  href: "/blog/"
 
 - title: "Contact"
   href: "/contact/"
+
+---  title: "Research"
+---  href: "/research/"
+---  subcategories:
+---    - subtitle: "Current"
+---      subhref: "/research/"
+---    - subtitle: "Materials Research"
+---      subhref: "/materials/"
+---
+---  title: "CV"
+---  href: "/cv/"
+---
+---  title: "Blog"
+---  href: "/blog/"
 
 --- - title: "Submenu"
 ---  subcategories:
