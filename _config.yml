@@ -8,7 +8,7 @@ exclude: ["Makefile", "README.md"]
 url: "http://sriharisundar.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
-author: 
+author:
     name:
     facebook:
     scholar:
@@ -29,7 +29,7 @@ analytics:
         sc_invisible: 1
         sc_text     : 2
     google:
-        tracking_id: ''
+        tracking_id: "UA-61336509-2"
     getclicky:
       site_id:
     mixpanel:
