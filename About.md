@@ -5,7 +5,7 @@ permalink: /
 group: "navigation"
 ---
 
-{% include image.html url="/images/SrihariSundar_DP.jpg" width="200px" align="left" %}
+{% include image.html url="/images/SrihariSundar_DP.png" width="200px" align="right" %}
 
 Hi!
 

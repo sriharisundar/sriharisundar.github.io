@@ -3,8 +3,8 @@
 ---
 @charset "utf-8";
 
-$base-font-family: 'calibri', sans-serif;
-$base-font-size:   large;
+$base-font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+$base-font-size:   20px;
 $small-font-size:  1em;
 $vsmall-font-size: 0.66em;
 $base-line-height: 1.5;
@@ -14,7 +14,7 @@ $white:      #ffffff;
 $grey-vlight:#eee;
 $grey-light: #ccc;
 $grey:       #888;
-$grey-dark:  #444;
+$grey-dark:  #222222;
 $grey-vdark: #000000;
 $blue:       #0091ed;
 $orange:     #ca6c18;
@@ -26,7 +26,7 @@ $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $red;
 $url-hover-color:   $orange;
-$header-text-color: $text-light-color;
+$header-text-color: $grey-dark;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
 $line-color:        $grey-light;
