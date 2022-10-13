@@ -4,20 +4,22 @@
 - title: "Research"
   href: "/research/"
   subcategories:
-    - subtitle: "Current"
+    - subtitle: "Climate impacts on energy system"
       subhref: "/research/"
-    - subtitle: "Materials Research"
+    - subtitle: "Materials science"
       subhref: "/materials/"
+
+- title: "Codes"
+  href: "/codes/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "Contact"
   href: "/contact/"
 
+--- title: "Blog"
+---  href: "/blog/"
 --- - title: "Submenu"
 ---  subcategories:
 ---    - subtitle: "Item 1"
