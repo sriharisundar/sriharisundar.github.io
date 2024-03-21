@@ -5,11 +5,14 @@ permalink: /
 group: "navigation"
 ---
 
-{% include image.html url="/images/SrihariSundar_DP.jpg" width="200px" align="left" %}
+{% include image.html url="/images/SrihariSundar_DP.png" width="200px" align="right" %}
 
 Hi!
 
-I am Srihari (Hari) Sundar, a PhD candidate at the University of Michigan, Ann Arbor. I work in the [ASSET lab](https://www.assetlab.org) where I am advised by [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig).
-My research interests include decarbonization of the power sector, climate impacts, computational modeling, and sustainable transformation. My current research is focused on predicting changes in the energy system -- meteorology interaction with a transition to widespread renewable energy generation, and using this to inform long term planning of reliable power systems under a changing climate while ensuring a just transition. I am also passionate about building scalable software and contributing to the open-source ecosystem.
+I am Hari, an energy system modeler and data scientist. Currently, I am a research engineer in the Grid Planning and Analysis Center at the U.S. National Renewable Energy Lab, working on long term system planning and reliability. I also study climate impacts on natural & man-made systems, building computational tools and models to do so. 
 
-Born and raised in Chennai, India and I did my under grad in Materials Engineering at IIT Madras. I began my research pursuits in materials informatics and data driven modeling, before changing fields. More details on my projects are in the [research page](/research) and my CV.
+Previously, I completed my PhD from the University of Michigan, Ann Arbor where I was advised by Prof. [Michael Craig](https://seas.umich.edu/research/faculty/michael-craig). During my PhD I focussed on research at the intersection of power system decarbonization, system reliability, and mitigation & adaptation challenges due to a changing climate. 
+
+More details on my projects and codes are in the [research](/research) and [codes](/codes) pages, and in my [scholar](https://scholar.google.com/citations?user=uQAgcREAAAAJ&hl=en) page. Born and raised in Chennai, India and I did my under grad in Materials Engineering at IIT Madras. I began my research pursuits in materials informatics and solid mechanics, and you can find more about that [here](/materials).
+
+[//]: # (I am passionate about building scalable software and contributing to the open-source ecosystem.)

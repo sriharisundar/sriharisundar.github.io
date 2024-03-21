@@ -45,9 +45,15 @@
     }
 }
 
-.post-meta {
+.post-date {
+    font-size: $vsmall-font-size;
+    color: $text-light-color;
+}
+
+.post-summary {
     font-size: $small-font-size;
     color: $text-light-color;
+    font-style: italic;
 }
 
 .post-link {
