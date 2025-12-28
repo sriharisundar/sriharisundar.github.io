@@ -1,12 +1,12 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
 baseURL = "https://sriharisundar.github.io"
+title = "Srihari Sundar"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hugo-coder'
 
 # Basic metadata configuration for your blog.
-title = "Srihari Sundar"
 author = "Srihari Sundar"
 copyright = "Copyright © 2025, Srihari Sundar"
 languageCode = "en-US"
@@ -22,8 +22,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
+  avatarURL = "images/SrihariSundar_DP.png"
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Hugo + Bear = :heart:"
+  description = "Hari's personal website"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -69,3 +70,17 @@ ignoreErrors = ["error-disable-taxonomy"]
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/sriharisundar/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/sriharisundar/"
+
+
