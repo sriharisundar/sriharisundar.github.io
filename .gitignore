@@ -1,7 +1,5 @@
-_site
-.sass-cache
-Gemfile
-Gemfile.lock
-.jekyll-cache
-vendor/
-.bundle/
+# Recommended here - https://discourse.gohugo.io/t/what-do-i-commit-to-git/52247/3
+.hugo_build.lock
+node_modules/
+public/
+resources/
