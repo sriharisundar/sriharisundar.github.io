@@ -22,6 +22,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
+  colorScheme = "auto"
   avatarURL = "images/SrihariSundar_DP.png"
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Hari's personal website"
