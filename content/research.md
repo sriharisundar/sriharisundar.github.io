@@ -1,7 +1,7 @@
 +++
 title = "Research"
 menu = "main"
-weight = 100
+weight = 3
 +++
 
 Projects I am currently working on -

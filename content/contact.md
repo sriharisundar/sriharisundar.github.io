@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 menu = "main"
-weight = 100
+weight = 5
 +++
 
 E-Mail:

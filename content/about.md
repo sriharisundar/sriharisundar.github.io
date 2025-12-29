@@ -1,7 +1,7 @@
 +++
 title = "About"
 menu = "main"
-weight = 100
+weight = 1
 +++
 
 Hi!
