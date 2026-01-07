@@ -3,3 +3,6 @@
 node_modules/
 public/
 resources/
+
+# Claude Code local settings
+.claude/

@@ -1,0 +1,17 @@
+.list ul li {
+  display: block !important;
+}
+
+.list ul li .date {
+  display: inline !important;
+  width: auto !important;
+  flex: none !important;
+  text-align: left !important;
+  margin-right: 1rem !important;
+}
+
+.list ul li .title {
+  display: inline !important;
+  flex: none !important;
+  color: #005bbb !important;
+}
