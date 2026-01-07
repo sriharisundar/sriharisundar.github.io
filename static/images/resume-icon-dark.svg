@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <!-- Clipboard board -->
+  <rect x="8" y="8" width="34" height="40" rx="2" ry="2" fill="none" stroke="#dadada" stroke-width="2"/>
+  <!-- Clipboard clip -->
+  <rect x="17" y="4" width="16" height="8" rx="1" ry="1" fill="#dadada"/>
+  <rect x="20" y="2" width="10" height="4" rx="1" ry="1" fill="none" stroke="#dadada" stroke-width="1.5"/>
+  <!-- Person head -->
+  <circle cx="25" cy="22" r="6" fill="#dadada"/>
+  <!-- Person body -->
+  <path d="M15 42 Q15 32 25 32 Q35 32 35 42" fill="#dadada"/>
+</svg>

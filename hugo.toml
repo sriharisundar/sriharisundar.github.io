@@ -85,4 +85,11 @@ icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
 url = "https://www.linkedin.com/in/sriharisundar/"
 
+[[params.social]]
+name = "Resume"
+imageLight = "/images/resume-icon-light.svg"
+imageDark = "/images/resume-icon-dark.svg"
+weight = 5
+url = "https://drive.google.com/file/d/1YuNGqIG9-cWbcsxzsJuXzGfJMD0QXyO_/view?usp=share_link"
+
 

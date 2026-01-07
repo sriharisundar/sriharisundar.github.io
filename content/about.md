@@ -10,6 +10,8 @@ I am Hari, an energy system modeler and data scientist. Currently, I am a resear
 
 Previously, I completed my PhD from the University of Michigan, Ann Arbor where I was advised by Prof. Michael Craig. During my PhD I focussed on research at the intersection of power system decarbonization, system reliability, and mitigation & adaptation challenges due to a changing climate. 
 
-More details on my projects and codes are in the [research](/research) and [codes](/codes) pages, and in my [scholar](https://scholar.google.com/citations?user=uQAgcREAAAAJ&hl=en) page. Born and raised in Chennai, India and I did my under grad in Materials Engineering at IIT Madras. 
+More details on my projects and codes are in the [research](/research) and [codes](/codes) pages, and in my [scholar](https://scholar.google.com/citations?user=uQAgcREAAAAJ&hl=en) page. Born and raised in Chennai, India and I did my under grad in Materials Engineering at IIT Madras.
+
+You can find my latest resume [here](https://drive.google.com/file/d/1YuNGqIG9-cWbcsxzsJuXzGfJMD0QXyO_/view?usp=share_link).
 
 [//]: # (I am passionate about building scalable software and contributing to the open-source ecosystem.)

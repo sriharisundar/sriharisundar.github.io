@@ -15,3 +15,31 @@
   flex: none !important;
   color: #005bbb !important;
 }
+
+.social-icon-img {
+  width: 2em;
+  height: 2em;
+  vertical-align: -0.125em;
+  display: inline-block;
+}
+
+.social-icon-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .social-icon-light {
+    display: none;
+  }
+  body.colorscheme-auto .social-icon-dark {
+    display: inline-block;
+  }
+}
+
+body.colorscheme-dark .social-icon-light {
+  display: none;
+}
+
+body.colorscheme-dark .social-icon-dark {
+  display: inline-block;
+}

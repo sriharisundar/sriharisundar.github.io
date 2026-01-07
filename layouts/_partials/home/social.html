@@ -1,0 +1,24 @@
+{{ with .Site.Params.social }}
+<ul>
+  {{ range sort . "weight" }}
+    {{ if .imageLight }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+          <img src="{{ .imageLight }}" alt="{{ .name }}" class="social-icon-img social-icon-light" />
+          <img src="{{ .imageDark }}" alt="{{ .name }}" class="social-icon-img social-icon-dark" />
+        </a>
+      </li>
+    {{ else if .icon }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+        </a>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}
